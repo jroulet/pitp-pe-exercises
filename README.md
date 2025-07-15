@@ -21,7 +21,7 @@ Choose the version for your operating system and Python 3.x. Follow the instruct
 
 1. Clone this repository:
 ```
-git clone https://github.com/jroulet/pitp-pe-exercises.git
+git clone git@github.com:jroulet/pitp-pe-exercises.git
 cd pitp-pe-exercises
 ```
 2. Navigate to the folder for the exercise you want to do, for example:
