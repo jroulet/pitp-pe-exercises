@@ -1,0 +1,2 @@
+cogwheel-pe
+git+https://github.com/johannesulf/nautilus.git@main#egg=nautilus-sampler
